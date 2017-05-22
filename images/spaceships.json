@@ -1,0 +1,75 @@
+{"frames": {
+
+"sp_your.png":
+{
+	"frame": {"x":168,"y":0,"w":177,"h":171},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":171},
+	"sourceSize": {"w":177,"h":171},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spship1.png":
+{
+	"frame": {"x":179,"y":399,"w":271,"h":213},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":271,"h":213},
+	"sourceSize": {"w":271,"h":213},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spship2.png":
+{
+	"frame": {"x":0,"y":171,"w":216,"h":197},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":197},
+	"sourceSize": {"w":216,"h":197},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spship3.png":
+{
+	"frame": {"x":0,"y":0,"w":89,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":89,"h":75},
+	"sourceSize": {"w":89,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spship4.png":
+{
+	"frame": {"x":89,"y":0,"w":79,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":89},
+	"sourceSize": {"w":79,"h":89},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spship6.png":
+{
+	"frame": {"x":216,"y":171,"w":204,"h":228},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":204,"h":228},
+	"sourceSize": {"w":204,"h":228},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"spship7.png":
+{
+	"frame": {"x":0,"y":399,"w":179,"h":274},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":179,"h":274},
+	"sourceSize": {"w":179,"h":274},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spaceships.png",
+	"format": "RGBA8888",
+	"size": {"w":450,"h":673},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:65e7d31f36ab4053db61de1a6a0cba6d:96e0daebdd3f1a13943440c465aa2896:3272f82166f65e17cc3a00865a7647ff$"
+}
+}

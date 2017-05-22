@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> "Star Galaxy Game"" </title>
+    <meta charset="utf-8">
+    <script type="text/javascript"  src="pixi.js"></script>
+    <link rel="stylesheet" href="sg.css">
+    <script type="text/javascript" src="star-galaxy.js"></script>
+</head>
+
+<body>
+<div id="game"></div>
+
+<script type="text/javascript">
+    var type = "WebGL"
+    if(!PIXI.utils.isWebGLSupported()){
+      type = "canvas"
+    }
+    PIXI.utils.sayHello(type)
+</script>
+</body>
+</html>
